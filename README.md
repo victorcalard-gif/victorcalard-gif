@@ -9,21 +9,6 @@ Working with Python, SQL, Streamlit, and statistical modelling
 ## Technologies & Tools
 Python • SQL • Streamlit • Git • LaTeX • HTML/CSS • Markdown
 
----
-
-## Featured Projects
-
-### NBA Analytics Dashboard (Streamlit)
-Interactive dashboard to explore NBA teams, players and statistics.  
-*Repository link*
-
-### Recipe Finder App
-Ingredient-based recipe search with data cleaning and interactive visuals.  
-*Repository link*
-
-### Energy ETF Analysis
-Financial analysis comparing fossil and clean energy ETFs.  
-*Repository link*
 
 ---
 
