@@ -35,5 +35,5 @@ Financial analysis comparing fossil and clean energy ETFs.
 ---
 
 ## Contact
-victor@example.com  
-LinkedIn: https://linkedin.com/in/...
+victor.calard2@orange.fr  
+LinkedIn: [https://linkedin.com/in/...](https://www.linkedin.com/in/victor-calard-02581637a/)
