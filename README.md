@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Victor 👋
 
-<!--
-**victorcalard-gif/victorcalard-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Master's student in Economic & Financial Information Systems (MBFA)  
+Passionate about Data Science, Machine Learning and interactive dashboards  
+Working with Python, SQL, Streamlit, and statistical modelling  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies & Tools
+Python • SQL • Streamlit • Git • LaTeX • HTML/CSS • Markdown
+
+---
+
+## Featured Projects
+
+### NBA Analytics Dashboard (Streamlit)
+Interactive dashboard to explore NBA teams, players and statistics.  
+*Repository link*
+
+### Recipe Finder App
+Ingredient-based recipe search with data cleaning and interactive visuals.  
+*Repository link*
+
+### Energy ETF Analysis
+Financial analysis comparing fossil and clean energy ETFs.  
+*Repository link*
+
+---
+
+## Currently Learning
+- Machine Learning (classification & regression)
+- Econometrics & financial networks
+- Data engineering & ETL
+
+---
+
+## Contact
+victor@example.com  
+LinkedIn: https://linkedin.com/in/...
