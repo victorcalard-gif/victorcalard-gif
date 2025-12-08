@@ -20,5 +20,5 @@ Python • SQL • Streamlit • Git • LaTeX • HTML/CSS • Markdown
 ---
 
 ## Contact
-Mail: victor.calard2@orange.fr  
+E-mail: victor.calard2@orange.fr  
 LinkedIn: [https://linkedin.com/in/...](https://www.linkedin.com/in/victor-calard-02581637a/)
