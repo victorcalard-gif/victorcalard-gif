@@ -37,10 +37,11 @@ Working with Python, SQL, Streamlit, and statistical modelling
 
 ---
 
-## Currently Learning
-- Machine Learning (classification & regression)
-- Econometrics & financial networks
-- Data engineering & ETL
+### Currently Learning
+
+![ML](https://img.shields.io/badge/Machine%20Learning-Classification%20|%20Regression-6A5ACD?style=for-the-badge)
+![ETL](https://img.shields.io/badge/Data%20Engineering-ETL%20Pipelines-FF8C00?style=for-the-badge)
+
 
 ---
 
